@@ -1,5 +1,5 @@
 {
-  "name": "weather",
+  "name": "weather5app",
   "version": "1.0.0",
   "description": "show the current weather",
   "main": "app.js",
@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mndown/weather5app.git"
+    "url": "git+https://github.com/mndowne/weather5app.git"
   },
-  "depwndencies":{
+  "dependencies":{
     "express":"*"
   },
   "engines":{
@@ -19,6 +19,6 @@
   "author": "mndowne",
   "license": "ISC",
   "bugs": {
-    "url":"https://github.com/mndonwe/weather5app/issues"
+    "url":"https://github.com/mndowne/weather5app/issues"
   }
 }
