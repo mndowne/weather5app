@@ -1,0 +1,81 @@
+body { 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.weather {
+    background-color: rgb(40,40,40);
+    height: 150px;
+    width: 500px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: .8;
+    border-radius: 20px
+}
+
+.title p {
+    color: white;
+    text-align: center;
+    margin: 5px 0px 0px 0px;
+    font-size: 250%;
+    font-family: 'Pacifico', cursive;
+
+}
+
+.housing {
+    background-color: rgb(90,90,90);
+    height: 75px;
+    width: 75px;
+    border-radius: 20px;
+    margin: 0px 10px 10px 0px;
+}
+
+.housing2 {
+    background-color: rgb(90,90,90);
+    height: 75px;
+    width: 160px;
+    border-radius: 20px;
+    margin: 0px 10px 10px 0px;
+}
+
+.largeSpace{
+    width: 100px; 
+
+}
+
+.smallSpace{
+    width: 37px;
+    height: 10px;
+}
+
+#temp {
+    color: white;
+    font-size: 200%;
+    text-align: center;
+}
+#humid {
+    color: white;
+    font-size: 200%;
+    text-align: center;
+}
+#wind {
+    color: white;
+    font-size: 200%;
+    text-align: center;
+}
+
+#units {
+    background-color: rgb(40,40,40);
+    height: 20px;
+    width: 150px;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: .8;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+}
