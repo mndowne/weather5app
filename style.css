@@ -7,7 +7,7 @@ body {
 
 .weather {
     background-color: rgb(40,40,40);
-    height: 150px;
+    height: 200px;
     width: 500px;
     margin-top: 10px;
     margin-left: auto;
@@ -55,27 +55,44 @@ body {
     color: white;
     font-size: 200%;
     text-align: center;
+    margin-top: -5px;
 }
 #humid {
     color: white;
     font-size: 200%;
     text-align: center;
+    margin-top: -5px;
 }
 #wind {
     color: white;
     font-size: 200%;
     text-align: center;
+    margin-top: -5px;
 }
 
 #units {
     background-color: rgb(40,40,40);
     height: 20px;
     width: 150px;
-    margin-top: 5px;
+    margin-top: 15px;
     margin-left: auto;
     margin-right: auto;
     opacity: .8;
     border-radius: 10px;
     color: white;
     text-align: center;
+}
+
+#windTitle {
+    color: white;
+    margin-top: -0px
+}
+
+#humidityTitle {
+    color: white;
+    margin-top: -0px
+}
+#tempTitle {
+    color: white;
+    margin-top: -0px
 }
