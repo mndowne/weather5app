@@ -9,7 +9,7 @@ var hour= 0;
 var flag = 0;
 
 $(document).ready(function(){
-        alert("add \"https://\" to front of address bar");
+//        alert("add \"https://\" to front of address bar");
         if (navigator.geolocation) {
         navigator.geolocation.getCurrentPosition(function(position) {
                 var lat = position.coords.latitude;
